@@ -2,6 +2,7 @@
 
 <!--
 **SMRUTI-707/SMRUTI-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f31de717-b2cd-41ba-a81d-6147adece68d" />
 
 Here are some ideas to get you started:
 
